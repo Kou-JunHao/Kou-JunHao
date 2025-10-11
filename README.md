@@ -25,9 +25,7 @@
     <img src="https://img.shields.io/github/stars/Kou-JunHao?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
     
   </p>
-  <p>
-  <img src="https://profile-counter.glitch.me/{Kou-JunHao}/count.svg" alt="访问计数器" />
-  </p>
+
 </div>
 
 <!-- 添加动态波浪分隔符 -->
