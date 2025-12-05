@@ -1,12 +1,8 @@
 <div align="center">
-  
-  <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Kou-JunHao&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=知无不言，言无不尽&descAlignY=55" />
+
   
   # 👋 Hello，here is Kou-JunHao
   
-  <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=编程初学者+%7C+安卓应用开发者;永远保持好奇心。)](https://git.io/typing-svg)
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
@@ -120,9 +116,9 @@
 <!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kou-JunHao/Kou-JunHao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kou-JunHao/Kou-JunHao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kou-JunHao/Kou-JunHao/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <!-- 实时贡献日历热图 -->
